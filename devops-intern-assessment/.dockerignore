@@ -1,0 +1,11 @@
+.git
+.github
+.idea
+.vscode
+.env
+.env.*
+*.log
+README.md
+nomad
+logging
+scripts
